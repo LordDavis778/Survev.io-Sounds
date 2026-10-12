@@ -3,877 +3,877 @@
   "data": [
     {
       "id": "d2",
-      "matchUrl": "http*://surviv.io/*",
+      "matchUrl": "http*://survev.io/*",
       "rules": [
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ak47_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ak47_01.mp3",
+          "match": "http*://survev.io/audio/guns/ak47_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ak47_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ak47_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ak47_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/ak47_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ak47_reload_01.mp3",
           "on": true
         },
 		
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ak47_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ak47_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/ak47_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ak47_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/an94_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/an94_01.mp3",
+          "match": "http*://survev.io/audio/guns/an94_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/an94_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/an94_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/an94_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/an94_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/an94_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/an94_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/an94_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/an94_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/an94_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/awc_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/awc_01.mp3",
+          "match": "http*://survev.io/audio/guns/awc_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/awc_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/awc_cycle_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/awc_cycle_01.mp3",
+          "match": "http*://survev.io/audio/guns/awc_cycle_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/awc_cycle_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/awc_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/awc_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/awc_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/awc_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/awc_pull_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/awc_pull_01.mp3",
+          "match": "http*://survev.io/audio/guns/awc_pull_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/awc_pull_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/bar_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/bar_01.mp3",
+          "match": "http*://survev.io/audio/guns/bar_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/bar_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/bar_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/bar_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/bar_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/bar_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/bar_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/bar_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/bar_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/bar_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/deagle_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/deagle_01.mp3",
+          "match": "http*://survev.io/audio/guns/deagle_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/deagle_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/deagle_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/deagle_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/deagle_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/deagle_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/deagle_reload_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/deagle_reload_02.mp3",
+          "match": "http*://survev.io/audio/guns/deagle_reload_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/deagle_reload_02.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/deagle_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/deagle_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/deagle_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/deagle_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/glock_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/glock_01.mp3",
+          "match": "http*://survev.io/audio/guns/glock_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/glock_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/glock_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/glock_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/glock_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/glock_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/glock_reload_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/glock_reload_02.mp3",
+          "match": "http*://survev.io/audio/guns/glock_reload_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/glock_reload_02.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/glock_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/glock_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/glock_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/glock_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/hk416_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/hk416_01.mp3",
+          "match": "http*://survev.io/audio/guns/hk416_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/hk416_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/hk416_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/hk416_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/hk416_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/hk416_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/hk416_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/hk416_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/hk416_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/hk416_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1014_01.mp3",
-          "replace": "https://raw.githubusercontent.com/FilipKZhong/Surviv.io-Sounds/master/Surviv.io%20GS/m1014_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1014_01.mp3",
+          "replace": "https://raw.githubusercontent.com/FilipKZhong/Survev.io-Sounds/master/Survev.io%20GS/m1014_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1014_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1014_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1014_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1014_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m39_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m39_01.mp3",
+          "match": "http*://survev.io/audio/guns/m39_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m39_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m39_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m39_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/m39_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m39_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m39_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m39_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/m39_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m39_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m4a1_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m4a1_01.mp3",
+          "match": "http*://survev.io/audio/guns/m4a1_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m4a1_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m870_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m870_01.mp3",
+          "match": "http*://survev.io/audio/guns/m870_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m870_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m870_pull_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m870_pull_01.mp3",
+          "match": "http*://survev.io/audio/guns/m870_pull_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m870_pull_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m870_cycle_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m870_cycle_01.mp3",
+          "match": "http*://survev.io/audio/guns/m870_cycle_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m870_cycle_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m870_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m870_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/m870_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m870_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m93r_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m93r_01.mp3",
+          "match": "http*://survev.io/audio/guns/m93r_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m93r_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m93r_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m93r_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/m93r_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m93r_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m93r_reload_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m93r_reload_02.mp3",
+          "match": "http*://survev.io/audio/guns/m93r_reload_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m93r_reload_02.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m93r_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m93r_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/m93r_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m93r_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m9_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m9_01.mp3",
+          "match": "http*://survev.io/audio/guns/m9_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m9_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m9_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m9_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/m9_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m9_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m9_reload_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m9_reload_02.mp3",
+          "match": "http*://survev.io/audio/guns/m9_reload_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m9_reload_02.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m9_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m9_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/m9_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m9_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mac10_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mac10_01.mp3",
+          "match": "http*://survev.io/audio/guns/mac10_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mac10_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mac10_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mac10_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/mac10_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mac10_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mac10_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mac10_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/mac10_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mac10_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mk12_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mk12_01.mp3",
+          "match": "http*://survev.io/audio/guns/mk12_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mk12_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mk12_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mk12_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/mk12_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mk12_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mk12_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mk12_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/mk12_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mk12_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mp220_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mp220_01.mp3",
+          "match": "http*://survev.io/audio/guns/mp220_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mp220_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mp220_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mp220_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/mp220_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mp220_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mp5_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mp5_01.mp3",
+          "match": "http*://survev.io/audio/guns/mp5_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mp5_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mp5_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mp5_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/mp5_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mp5_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mp5_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mp5_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/mp5_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mp5_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ot38_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ot38_01.mp3",
+          "match": "http*://survev.io/audio/guns/ot38_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ot38_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ot38_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ot38_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/ot38_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ot38_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ot38_reload_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ot38_reload_02.mp3",
+          "match": "http*://survev.io/audio/guns/ot38_reload_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ot38_reload_02.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ot38_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ot38_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/ot38_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ot38_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/saiga_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/saiga_01.mp3",
+          "match": "http*://survev.io/audio/guns/saiga_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/saiga_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/saiga_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/saiga_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/saiga_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/saiga_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/saiga_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/saiga_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/saiga_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/saiga_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scar_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scar_01.mp3",
+          "match": "http*://survev.io/audio/guns/scar_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scar_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scar_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scar_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/scar_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scar_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scar_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scar_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/scar_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scar_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scarssr_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scarssr_01.mp3",
+          "match": "http*://survev.io/audio/guns/scarssr_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scarssr_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/spas12_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/spas12_01.mp3",
+          "match": "http*://survev.io/audio/guns/spas12_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/spas12_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/spas12_cycle_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/spas12_cycle_01.mp3",
+          "match": "http*://survev.io/audio/guns/spas12_cycle_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/spas12_cycle_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/spas12_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/spas12_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/spas12_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/spas12_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/spas12_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/spas12_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/spas12_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/spas12_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/svd_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/svd_01.mp3",
+          "match": "http*://survev.io/audio/guns/svd_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/svd_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/svd_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/svd_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/svd_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/svd_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/svd_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/svd_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/svd_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/svd_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ump9_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ump9_01.mp3",
+          "match": "http*://survev.io/audio/guns/ump9_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ump9_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ump9_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ump9_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/ump9_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ump9_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/ump9_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/ump9_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/ump9_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/ump9_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/usas_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/usas_01.mp3",
+          "match": "http*://survev.io/audio/guns/usas_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/usas_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/usas_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/usas_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/usas_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/usas_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/usas_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/usas_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/usas_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/usas_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/groza_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/groza_01.mp3",
+          "match": "http*://survev.io/audio/guns/groza_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/groza_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/groza_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/groza_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/groza_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/groza_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/grozas_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/grozas_01.mp3",
+          "match": "http*://survev.io/audio/guns/grozas_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/grozas_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/vss_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/vss_01.mp3",
+          "match": "http*://survev.io/audio/guns/vss_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/vss_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/vss_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/vss_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/vss_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/vss_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/vss_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/vss_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/vss_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/vss_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1a1_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1a1_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1a1_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1a1_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1a1_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1a1_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1a1_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1a1_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1a1_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1a1_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1a1_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1a1_switch_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/l86_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/l86_01.mp3",
+          "match": "http*://survev.io/audio/guns/l86_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/l86_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/l86_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/l86_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/l86_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/l86_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/l86_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/l86_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/l86_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/l86_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/famas_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/famas_01.mp3",
+          "match": "http*://survev.io/audio/guns/famas_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/famas_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/famas_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/famas_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/famas_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/famas_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/famas_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/famas_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/famas_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/famas_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mkg45_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mkg45_01.mp3",
+          "match": "http*://survev.io/audio/guns/mkg45_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mkg45_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mkg45_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mkg45_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/mkg45_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mkg45_reload_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/vector_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/vector_01.mp3",
+          "match": "http*://survev.io/audio/guns/vector_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/vector_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/vector_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/vector_02.mp3",
+          "match": "http*://survev.io/audio/guns/vector_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/vector_02.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/vector_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/vector_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/vector_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/vector_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/vector_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/vector_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/vector_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/vector_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scorpion_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scorpion_01.mp3",
+          "match": "http*://survev.io/audio/guns/scorpion_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scorpion_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scorpion_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scorpion_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/scorpion_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scorpion_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scorpion_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scorpion_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/scorpion_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scorpion_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m249_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m249_01.mp3",
+          "match": "http*://survev.io/audio/guns/m249_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m249_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m249_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m249_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/m249_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m249_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m249_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m249_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/m249_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m249_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/qbb97_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/qbb97_01.mp3",
+          "match": "http*://survev.io/audio/guns/qbb97_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/qbb97_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/qbb97_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/qbb97_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/qbb97_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/qbb97_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/qbb97_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/qbb97_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/qbb97_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/qbb97_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/dp28_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/dp28_01.mp3",
+          "match": "http*://survev.io/audio/guns/dp28_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/dp28_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/dp28_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/dp28_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/dp28_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/dp28_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/dp28_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/dp28_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/dp28_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/dp28_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/pkp_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/pkp_01.mp3",
+          "match": "http*://survev.io/audio/guns/pkp_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/pkp_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/pkm_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/pkm_02.mp3",
+          "match": "http*://survev.io/audio/guns/pkm_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/pkm_02.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/pkp_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/pkp_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/pkp_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/pkp_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/pkp_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/pkp_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/pkp_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/pkp_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/model94_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/model94_01.mp3",
+          "match": "http*://survev.io/audio/guns/model94_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/model94_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/model94_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/model94_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/model94_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/model94_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/model94_cycle_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/model94_cycle_01.mp3",
+          "match": "http*://survev.io/audio/guns/model94_cycle_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/model94_cycle_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mosin_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mosin_01.mp3",
+          "match": "http*://survev.io/audio/guns/mosin_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mosin_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mosin_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mosin_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/mosin_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mosin_reload_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mosin_reload_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mosin_reload_02.mp3",
+          "match": "http*://survev.io/audio/guns/mosin_reload_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mosin_reload_02.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mosin_pull_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mosin_pull_01.mp3",
+          "match": "http*://survev.io/audio/guns/mosin_pull_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mosin_pull_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/mosin_cycle_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/mosin_cycle_01.mp3",
+          "match": "http*://survev.io/audio/guns/mosin_cycle_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mosin_cycle_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/p30l_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/p30l_01.mp3",
+          "match": "http*://survev.io/audio/guns/p30l_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/p30l_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/p30l_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/p30l_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/p30l_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/p30l_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/p30l_reload_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/p30l_reload_02.mp3",
+          "match": "http*://survev.io/audio/guns/p30l_reload_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/p30l_reload_02.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/p30l_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/p30l_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/p30l_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/p30l_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1911_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1911_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1911_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1911_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1911_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1911_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1911_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1911_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1911_reload_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1911_reload_02.mp3",
+          "match": "http*://survev.io/audio/guns/m1911_reload_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1911_reload_02.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1911_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1911_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1911_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1911_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/garand_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/garand_01.mp3",
+          "match": "http*://survev.io/audio/guns/garand_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/garand_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/garand_02.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/garand_02.mp3",
+          "match": "http*://survev.io/audio/guns/garand_02.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/garand_02.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/garand_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/garand_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/garand_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/garand_reload_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/garand_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/garand_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/garand_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/garand_switch_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scout_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scout_01.mp3",
+          "match": "http*://survev.io/audio/guns/scout_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scout_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scout_pull_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scout_pull_01.mp3",
+          "match": "http*://survev.io/audio/guns/scout_pull_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scout_pull_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scout_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scout_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/scout_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scout_reload_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/scout_cycle_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/scout_cycle_01.mp3",
+          "match": "http*://survev.io/audio/guns/scout_cycle_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/scout_cycle_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/sv98_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/sv98_01.mp3",
+          "match": "http*://survev.io/audio/guns/sv98_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/sv98_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/sv98_pull_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/sv98_pull_01.mp3",
+          "match": "http*://survev.io/audio/guns/sv98_pull_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/sv98_pull_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/sv98_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/sv98_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/sv98_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/sv98_reload_01.mp3",
           "on": true
         },
 		    {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/sv98_cycle_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/sv98_cycle_01.mp3",
+          "match": "http*://survev.io/audio/guns/sv98_cycle_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/sv98_cycle_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/blr_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/blr_01.mp3",
+          "match": "http*://survev.io/audio/guns/blr_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/blr_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1100_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1100_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1100_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1100_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/m1100_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1100_reload_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1100_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1100_reload_01.mp3",
           "on": true
         }
       ],
