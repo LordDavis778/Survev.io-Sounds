@@ -1,6 +1,6 @@
 # Surviv.io-Sounds
 
-This mod sounds was made from MW 2019
+This mod sounds was made from Modern Warfare series
 
 Just load the customsoundrules.json file with https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii?hl=en then you are good to go
 
