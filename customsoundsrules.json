@@ -152,18 +152,6 @@
         },
         {
           "type": "normalOverride",
-          "match": "http*://survev.io/audio/guns/m1014_01.mp3",
-          "replace": "https://raw.githubusercontent.com/FilipKZhong/Survev.io-Sounds/master/Survev.io%20GS/m1014_01.mp3",
-          "on": true
-        },
-        {
-          "type": "normalOverride",
-          "match": "http*://survev.io/audio/guns/m1014_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1014_reload_01.mp3",
-          "on": true
-        },
-        {
-          "type": "normalOverride",
           "match": "http*://survev.io/audio/guns/m39_01.mp3",
           "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m39_01.mp3",
           "on": true
@@ -184,6 +172,18 @@
           "type": "normalOverride",
           "match": "http*://survev.io/audio/guns/m4a1_01.mp3",
           "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m4a1_01.mp3",
+          "on": true
+        },
+		{
+          "type": "normalOverride",
+          "match": "http*://survev.io/audio/guns/m4a1_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m4a1_reload_01.mp3",
+          "on": true
+        },
+		{
+          "type": "normalOverride",
+          "match": "http*://survev.io/audio/guns/m4a1_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m4a1_switch_01.mp3",
           "on": true
         },
         {
@@ -304,6 +304,12 @@
           "type": "normalOverride",
           "match": "http*://survev.io/audio/guns/mp220_reload_01.mp3",
           "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mp220_reload_01.mp3",
+          "on": true
+        },
+		{
+          "type": "normalOverride",
+          "match": "http*://survev.io/audio/guns/mp220_deploy_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/mp220_deploy_01.mp3",
           "on": true
         },
         {
@@ -890,8 +896,8 @@
         },
 		{
           "type": "normalOverride",
-          "match": "http*://survev.io/audio/guns/m1014_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1014_switch_01.mp3",
+          "match": "http*://survev.io/audio/guns/m1014_deploy_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/m1014_deploy_01.mp3",
           "on": true
         }
       ],
