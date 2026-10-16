@@ -84,6 +84,24 @@
           "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/bar_switch_01.mp3",
           "on": true
         },
+		  {
+          "type": "normalOverride",
+          "match": "http*://survev.io/audio/guns/barrett_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/barrett_01.mp3",
+          "on": true
+        },
+		  {
+          "type": "normalOverride",
+          "match": "http*://survev.io/audio/guns/barrett_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/barrett_reload_01.mp3",
+          "on": true
+        },
+		  {
+          "type": "normalOverride",
+          "match": "http*://survev.io/audio/guns/barrett_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/barrett_switch_01.mp3",
+          "on": true
+        },
 		{
           "type": "normalOverride",
           "match": "http*://survev.io/audio/guns/colt45_01.mp3",
