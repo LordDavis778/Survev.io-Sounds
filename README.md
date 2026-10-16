@@ -3,7 +3,9 @@
 This sounds pack was made from Modern Warfare series
 
 Just load the customsoundrules.json file with Resourse Override extension
-https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii?hl=en 
+
+https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii?hl=en
+
 then you are good to go
 
 Choose "Options" -> "Load rules" -> the "customsoundrules.json" file you've just downloaded
