@@ -10,4 +10,5 @@ Choose "Options" -> "Load rules" -> the "customsoundrules.json" file you've just
 ![image](https://user-images.githubusercontent.com/102913310/178017028-333cad52-cb3b-42a7-8d51-26346e98addc.png)
 
 Update 15/10/2026: Peacemaker sound added
+
 Update 16/10/2026: Barrett M107, BLR-81 sounds added
