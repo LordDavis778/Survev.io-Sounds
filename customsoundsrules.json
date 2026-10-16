@@ -900,6 +900,18 @@
           "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/blr_01.mp3",
           "on": true
         },
+		  {
+          "type": "normalOverride",
+          "match": "http*://survev.io/audio/guns/blr_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/blr_reload_01.mp3",
+          "on": true
+        },
+		  {
+          "type": "normalOverride",
+          "match": "http*://survev.io/audio/guns/blr_cycle_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Survev.io-Sounds/master/survev.io-sounds/blr_cycle_01.mp3",
+          "on": true
+        },
         {
           "type": "normalOverride",
           "match": "http*://survev.io/audio/guns/m1100_01.mp3",
