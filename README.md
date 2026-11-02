@@ -14,3 +14,5 @@ Choose "Options" -> "Load rules" -> the "customsoundrules.json" file you've just
 Update 15/10/2026: Peacemaker sound added
 
 Update 16/10/2026: Barrett M107, BLR-81 sounds added
+
+Update 02/11/2026: IMD-2, Spas16 sounds added
